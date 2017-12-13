@@ -1,0 +1,15 @@
+{
+	"id": "dtn2",
+	"question": "Will you repair it?",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "anode1"
+		},
+		{
+			"text": "No",
+			"target": "anode2"
+		}
+	]
+}

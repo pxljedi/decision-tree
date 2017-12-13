@@ -1,0 +1,15 @@
+{
+	"id": "dtn4",
+	"question": "Will you wear it within the next week?",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "anode1"
+		},
+		{
+			"text": "No",
+			"target": "dtn5"
+		}
+	]
+}

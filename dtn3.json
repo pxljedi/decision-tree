@@ -1,0 +1,15 @@
+{
+	"id": "dtn3",
+	"question": "Does it fit well?",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn4"
+		},
+		{
+			"text": "No",
+			"target": "anode2"
+		}
+	]
+}

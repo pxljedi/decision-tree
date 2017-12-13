@@ -1,0 +1,15 @@
+{
+	"id": "dtn5",
+	"question": "Is it dressy?",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn6"
+		},
+		{
+			"text": "No",
+			"target": "anode2"
+		}
+	]
+}

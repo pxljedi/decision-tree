@@ -1,0 +1,15 @@
+{
+	"id": "dtn6",
+	"question": "Will you ever wear it again?",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "anode1"
+		},
+		{
+			"text": "No",
+			"target": "dtn7"
+		}
+	]
+}

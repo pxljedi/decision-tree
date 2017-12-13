@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Keep it or Donate it?</title>
+<link rel="stylesheet" href="css/closet.css">
+</head>
+<body>
+<h1>Closet Cleanout - What to Keep vs. Donate</h1>
+<div class="decisionTree" aria-live="polite" aria-relevant="additions">
+  <p class="cta"><a href="#" role="button" data-start-node="start">Having trouble deciding whether to keep or donate an item from your closet?<br>
+    Use this interactive decision tree to help you decide.<br>
+    You can also print the diagram below for more info.<br>
+    <strong>Click here. </strong><br></a>
+  </p>
+</div>
+<img src="img/closet-cleanout.jpg" alt="Closet Cleanout Diagram"/> 
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script> 
+<script src="js/jquery.decisionTree.js"></script> 
+<script>
+	  $( document ).ready(function() {
+	    $(".decisionTree").decisionTree();
+	  });
+    </script>
+</body>
+</html>

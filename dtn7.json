@@ -1,0 +1,15 @@
+{
+	"id": "dtn7",
+	"question": "Is it your wedding dress?",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "anode1"
+		},
+		{
+			"text": "No",
+			"target": "anode2"
+		}
+	]
+}
